@@ -2,11 +2,28 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <h3 align="center"> Physical science student | University of Concepción, Chile </h3>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<div style="text-align: justify;">
-    <p>Here you can find repositories that contain guides, works or evaluations related to the Physics career of the Universidad de Concepción.</p>
-    <p>You can also find additional codes that I have created to solve mathematical and/or physical problems, such as linear algebra, mechanical physics, among others.</p>
-    <p>In the future I hope to upload more works and codes.</p>
-    <p>I hope you find it useful!</p>
-</div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<p align="left">
+  <em>
+    Here you can find repositories that contain guides, works or evaluations related to the Physics career of the Universidad de Concepción. 
+
+You can also find additional codes that I have created to solve mathematical and/or physical problems, such as linear algebra, mechanical physics, among others.
+
+In the future I hope to upload more works and codes.
+
+I hope you find it useful !
+</p>
+<br><br>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
+
