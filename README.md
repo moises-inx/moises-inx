@@ -12,8 +12,12 @@
   <em>
     Here you can find repositories that contain guides, works or evaluations related to the Physics career of the Universidad de Concepción. 
 
+<p align="left">
+  <em>
 You can also find additional codes that I have created to solve mathematical and/or physical problems, such as linear algebra, mechanical physics, among others.
 
+<p align="left">
+  <em>
 In the future I hope to upload more works and codes.
 
 I hope you find it useful !
